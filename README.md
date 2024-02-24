@@ -1,3 +1,3 @@
 # Main-repo
-My First Repository
-Auther: Gourav Kumar
+My First Repository <br>
+Author: Gourav Kumar
